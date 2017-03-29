@@ -6,4 +6,4 @@ I spent the past several days taking photos of people I know, all of which were 
 
 # License
 Copyright (c) 2017 Karan Agrawal.
-Licensed under the Apache License
+Licensed under the Apache License, Version 2.0
