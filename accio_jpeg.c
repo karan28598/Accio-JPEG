@@ -39,7 +39,7 @@ if(raw_data == NULL)
     return 2;
 }
 
-uint8_t buffer[512];                //Delcaring unsigned int variable type. Array of 512 bytes.
+uint8_t buffer[512];                //Declaring unsigned int variable type. Array of 512 bytes.
 
 int counter = 0;                    //Declaring counter for counting jpegs files
 
